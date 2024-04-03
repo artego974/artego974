@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**artego974/artego974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
