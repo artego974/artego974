@@ -14,3 +14,8 @@
 - 😄 Pronouns: (he him)
 - ⚡ Fun fact: (blau)
 -->
+
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
