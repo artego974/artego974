@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ( js, python)
 - 👯 I’m looking to collaborate on (now nothing)
 - 🤔 I’m looking for help with (now nothing)
-- 📫 How to reach me: (study and faith)
+- 📫 How to reach me: (artego974@gmail.com)
 - 😄 Pronouns: (he him)
 - ⚡ Fun fact: (blau)
 -->
