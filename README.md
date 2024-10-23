@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning ( js, python)
+- 🌱 I’m currently learning ( js, python, java)
 - 👯 I’m looking to collaborate on (now nothing)
 - 🤔 I’m looking for help with (now nothing)
 - 📫 How to reach me: (artego974@gmail.com)
